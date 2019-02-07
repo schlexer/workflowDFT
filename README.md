@@ -1,2 +1,2 @@
 # workflowDFT
-Module with helper functions to accelerate the handing of DFT calculations
+Helper functions to accelerate and ease the handling of DFT calculations, and computational materials set up.
